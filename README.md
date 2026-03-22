@@ -1,16 +1,54 @@
-## Hi there 👋
+# hey, I'm spacebxr 👋
 
-<!--
-**spacebxr/spacebxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Silly Discord user · Music addict · idk but I like coding :)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+I'm a fullstack developer who spends way too much time in VRChat, building things nobody asked for, and listening to music at unreasonable volumes.
+
+When I'm not coding, I'm probably:
+- 🎮 Lost somewhere in Discord talking.
+- 🎵 Adding songs to a playlist I'll never finish
+- 📺 Binge-watching something I should've watched months ago
+- 😴 Sleeping
+
+---
+
+## what I'm building
+
+| Project | What is it | Status |
+|---------|-----------|--------|
+| **Personal Site** | My little corner of the internet | 🔨 Always tinkering |
+
+---
+
+## tech I actually use
+
+```ts
+const spacebxr = {
+  frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend:    ["Node.js", "Prisma", "PostgreSQL"],
+  currently:  "making my site look cooler",
+  editor:     "VS Code — yes, with a dark theme",
+  os:         "Linux (I use Arch btw)",
+  hoursLost:  "countless, to CSS centering",
+} satisfies Developer
+```
+
+---
+
+## find me
+
+- 🌐 Website → [Click me](https://portfolio.spacebxr112.workers.dev/)
+- 🎮 Discord → `@spacebxr`
+- 🎵 Last.fm → will make it later
+- 📸 Instagram → i dont have one :/
+- 🐦 X → [@Spacebxr11](https://twitter.com/spacebxr11)
+
+---
+
+<p align="center">
+  <sub>thanks for stopping by.</sub>
+</p>
