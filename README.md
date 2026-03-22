@@ -9,7 +9,7 @@
 I'm a fullstack developer who spends way too much time in VRChat, building things nobody asked for, and listening to music at unreasonable volumes.
 
 When I'm not coding, I'm probably:
-- 🎮 Lost somewhere in Discord talking.
+- 🎮 Lost somewhere in Discord, texting.
 - 🎵 Adding songs to a playlist I'll never finish
 - 📺 Binge-watching something I should've watched months ago
 - 😴 Sleeping
