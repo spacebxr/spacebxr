@@ -29,11 +29,11 @@ When I'm not coding, I'm probably:
 ```ts
 const spacebxr = {
   frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:    ["Node.js", "Prisma", "PostgreSQL"],
+  backend:    ["Node.js", "Prisma", "Bun", "PostgreSQL"],
   currently:  "making my site look cooler",
   editor:     "VS Code — yes, with a dark theme",
   os:         "Linux (I use Arch btw)",
-  hoursLost:  "countless, to CSS centering",
+  hoursLost:  "countless, to CSS centering and yapping on discord",
 } satisfies Developer
 ```
 
