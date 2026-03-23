@@ -6,7 +6,7 @@
 
 ## about me
 
-I'm a fullstack developer who spends way too much time in VRChat, building things nobody asked for, and listening to music at unreasonable volumes.
+I'm a fullstack developer who spends way too much time in Discord, building things nobody asked for, and listening to music at unreasonable volumes.
 
 When I'm not coding, I'm probably:
 - 🎮 Lost somewhere in Discord, texting.
