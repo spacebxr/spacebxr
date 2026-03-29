@@ -21,7 +21,7 @@ When I'm not coding, I'm probably:
 | Project | What is it | Status |
 |---------|-----------|--------|
 | **Personal Site** | My little corner of the internet | 🔨 Always tinkering |
-
+| **wbio.lol backend** | backend developer of v2 :) | [click here to go to the site](https://wbio.lol)
 ---
 
 ## tech I actually use
