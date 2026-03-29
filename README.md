@@ -43,7 +43,7 @@ const spacebxr = {
 
 - 🌐 Website → [Click me](https://spacebxr.pages.dev/)
 - 🎮 Discord → `@spacebxr.`
-- 🎵 Last.fm → will make it later
+- 🎵 Last.fm → `@spacebxr`
 - 📸 Instagram → i dont have one :/
 - 🐦 X → [@Spacebxr11](https://twitter.com/spacebxr11)
 
