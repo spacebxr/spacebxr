@@ -30,7 +30,7 @@ When I'm not coding, I'm probably:
 const spacebxr = {
   frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   backend:    ["Node.js", "Prisma", "Bun", "PostgreSQL"],
-  currently:  "making my site look cooler",
+  currently:  "developing wbio.lol v2 backend",
   editor:     "VS Code — yes, with a dark theme",
   os:         "Linux (I use Arch btw)",
   hoursLost:  "countless, to CSS centering and yapping on discord",
