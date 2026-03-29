@@ -41,7 +41,7 @@ const spacebxr = {
 
 ## find me
 
-- 🌐 Website → [Click me](https://portfolio.spacebxr112.workers.dev/)
+- 🌐 Website → [Click me](https://spacebxr.pages.dev/)
 - 🎮 Discord → `@spacebxr.`
 - 🎵 Last.fm → will make it later
 - 📸 Instagram → i dont have one :/
