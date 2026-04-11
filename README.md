@@ -3,7 +3,7 @@
 > *Silly Discord user · Music addict · idk but I like coding :)*
 
 ---
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1300318105116872758?hideBadges=true)](https://discord.com/users/1300318105116872758)
 ## about me
 
 I'm a fullstack developer who spends way too much time in Discord, building things nobody asked for, and listening to music at unreasonable volumes.
