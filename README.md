@@ -29,9 +29,9 @@ When I'm not coding, I'm probably:
 
 ```ts
 const spacebxr = {
-  frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:    ["Node.js", "Prisma", "Bun", "PostgreSQL"],
-  currently:  "developing wbio.lol v2 backend",
+  frontend:   ["React", "Angular", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend:    ["Node.js", "Prisma", "Bun", "Go", "PostgreSQL"],
+  currently:  "developing strelp-api",
   editor:     "VS Code — yes, with a dark theme",
   os:         "Linux (I use Arch btw)",
   hoursLost:  "countless, to CSS centering and yapping on discord",
