@@ -22,7 +22,7 @@ When I'm not coding, I'm probably:
 |---------|-----------|--------|
 | **Personal Site** | My little corner of the internet | 🔨 Always tinkering |
 | **wbio.lol backend** | backend developer of v2 :) | [click here to go to the site](https://wbio.lol) |
-| **Strelp-API** | Its a Discord and Github Presence API | Currently in testing mode (not launched) |
+| **Strelp-API** | Its a Discord and Github Presence API | [strelp](https://strelp.pages.dev/) |
 ---
 
 ## tech I actually use
